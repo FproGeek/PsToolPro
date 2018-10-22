@@ -1,0 +1,17 @@
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.csprojAssemblyReference.cache
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.Form1.resources
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.Properties.Resources.resources
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.csproj.GenerateResource.cache
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.csproj.CoreCompileInputs.cache
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\PsToolPro.exe.config
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\PsToolPro.exe
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\PsToolPro.pdb
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\MetroFramework.dll
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\bin\Debug\PS3Lib.dll
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.csproj.CopyComplete
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.exe
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.pdb
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.gestion.resources
+C:\Users\Florent\source\repos\PsToolPro\PsToolPro\obj\Debug\PsToolPro.systeme.resources
